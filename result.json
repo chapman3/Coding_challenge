@@ -1,0 +1,48 @@
+{
+    "0": {
+        "id": "1000",
+        "children": [
+            {
+                "timestamp": "1546344000",
+                "value": 97
+            },
+            {
+                "timestamp": "1546347600",
+                "value": 98
+            },
+            {
+                "timestamp": "1546351200",
+                "value": 99
+            },
+            {
+                "timestamp": "1546354800",
+                "value": 100
+            }
+        ]
+    },
+    "1": {
+        "id": "1001",
+        "children": [
+            {
+                "timestamp": "1546344000",
+                "value": 43
+            },
+            {
+                "timestamp": "1546347600",
+                "value": 43
+            },
+            {
+                "timestamp": "1546351200",
+                "value": 42
+            },
+            {
+                "timestamp": "1546354800",
+                "value": 41
+            },
+            {
+                "timestamp": "1546358400",
+                "value": 38
+            }
+        ]
+    }
+}
